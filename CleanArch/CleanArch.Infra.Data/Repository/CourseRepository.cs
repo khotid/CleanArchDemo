@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CleanArch.Domain.Repository
+namespace CleanArch.Infra.Data.Repository
 {
     public class CourseRepository : ICourseRepository
     {
